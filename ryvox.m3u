@@ -1,4 +1,4 @@
-
+ [
     { "name": "zee-bangla ", "sources": [ { "name": "HD", "url": "https://tvsen6.aynaott.com/ZeeBangla/tracks-v1a1/mono.ts.m3u8"}, { "name": "HD", "url": "https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8"} ] },
     { "name": "star-jalsa-hd ", "sources": [ { "name": "HD", "url": "https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8"}, { "name": "HD", "url": "https://tvsen6.aynaott.com/ZeeBangla/tracks-v1a1/mono.ts.m3u8"} ] },
     { "name": "jalsha-movies-hd ", "sources": [ { "name": "HD", "url": "http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8"}, { "name": "HD", "url": "https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8"}, { "name": "HD", "url": "https://zibo-play-app-link45.tvhunter.top/JalshaMovies/index.m3u8"} ] },
@@ -67,3 +67,4 @@
     { "name": "Bein_Sports_2 ", "sources": [ { "name": "HD", "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8"} ] },
     { "name": "Bein_Sports_3 ", "sources": [ { "name": "HD", "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8"} ] },
     { "name": "WILLOW_LIVE ", "sources": [ { "name": "HD", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"} ] }
+];
