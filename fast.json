@@ -6,592 +6,593 @@
     "special_note": "use credit",
     "channels": [
 
+
 {
 "id":"rajdhani",
 "name":"Rajdhani TV",
 "category":"BANGLA",
-"logo":"./icon/raj.jpg",
+"logo":"https://fastiptv.page.gd/icon/raj.jpg",
 "url":"https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
 },
 {
 "id":"AAJ_Entertainment",
 "name":"AAJ Entertainment",
 "category":"Indian",
-"logo":"./icon/aaj_entertainment.png",
+"logo":"https://fastiptv.page.gd/icon/aaj_entertainment.png",
 "url":"https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
 },
 {
 "id":"animal_planet_hd",
 "name":"Animal Planet HD",
 "category":"Infotainment",
-"logo":"./icon/animal_planet_hd.png",
+"logo":"https://fastiptv.page.gd/icon/animal_planet_hd.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8"
 },
 {
 "id":"a-sports",
 "name":"A Sports",
 "category":"Sports",
-"logo":"./icon/a-sports.jpg",
+"logo":"https://fastiptv.page.gd/icon/a-sports.jpg",
 "url":"https://tvsen6.aynaott.com/asports/index.m3u8"
 },
 {
 "id":"atnbangla",
 "name":"ATN Bangla",
 "category":"BANGLA",
-"logo":"./icon/atn-bangla1.jpg",
+"logo":"https://fastiptv.page.gd/icon/atn-bangla1.jpg",
 "url":"https://tvsen5.aynaott.com/atnbangla/index.m3u8"
 },
 {
 "id":"atnnews",
 "name":"ATN News",
 "category":"BANGLA",
-"logo":"./icon/atn_news_bd.png",
+"logo":"https://fastiptv.page.gd/icon/atn_news_bd.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
 },
 {
 "id":"ayna",
 "name":"Ayna",
 "category":"BANGLA",
-"logo":"./icon/ayna.jpg",
+"logo":"https://fastiptv.page.gd/icon/ayna.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8"
 },
 {
 "id":"banglavision",
 "name":"Banglavision",
 "category":"BANGLA",
-"logo":"./icon/banglavision.webp",
+"logo":"https://fastiptv.page.gd/icon/banglavision.webp",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
 },
 {
 "id":"Bengali-Beats",
 "name":"Bengali Beats",
 "category":"Music",
-"logo":"./icon/Bengali-Beats.png",
+"logo":"https://fastiptv.page.gd/icon/Bengali-Beats.png",
 "url":"https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8"
 },
 {
 "id":"Bein Sports 1",
 "name":"Bein Sports 1 {FIFA}",
 "category":"Sports",
-"logo":"./icon/Bein Sports 1.jpg",
+"logo":"https://fastiptv.page.gd/icon/Bein Sports 1.jpg",
 "url":"https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
 },
 {
 "id":"Bein Sports 2",
 "name":"Bein Sports 2 {FIFA}",
 "category":"Sports",
-"logo":"./icon/Bein Sports 2.jpg",
+"logo":"https://fastiptv.page.gd/icon/Bein Sports 2.jpg",
 "url":"https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8"
 },
 {
 "id":"Bein Sports 3",
 "name":"Bein Sports 3 {FIFA}",
 "category":"Sports",
-"logo":"./icon/Bein Sports 3.jpg",
+"logo":"https://fastiptv.page.gd/icon/Bein Sports 3.jpg",
 "url":"https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8"
 },
 {
 "id":"Bein Sports 4",
 "name":"Bein Sports 4 {FIFA}",
 "category":"Sports",
-"logo":"./icon/Bein Sports 4.jpg",
+"logo":"https://fastiptv.page.gd/icon/Bein Sports 4.jpg",
 "url":"https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8"
 },
 {
 "id":"Bein Sports Xtra",
 "name":"Bein Sports Xtra {FIFA}",
 "category":"Sports",
-"logo":"./icon/bein_sport_xtra.jpg",
+"logo":"https://fastiptv.page.gd/icon/bein_sport_xtra.jpg",
 "url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
 },
 {
 "id":"BBC_Earth",
 "name":"BBC Earth HD",
 "category":"Infotainment",
-"logo":"./icon/BBC_Earth.png",
+"logo":"https://fastiptv.page.gd/icon/BBC_Earth.png",
 "url":"https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
 },
 {
 "id":"BoishakhiTV",
 "name":"Boishakhi TV",
 "category":"BANGLA",
-"logo":"./icon/BoishakhiTV.jpg",
+"logo":"https://fastiptv.page.gd/icon/BoishakhiTV.jpg",
 "url":"https://tvsen6.aynaott.com/boishakhitv/index.m3u8"
 },
 {
 "id":"Bijoy_TV",
 "name":"Bijoy TV",
 "category":"BANGLA",
-"logo":"./icon/Bijoy_TV.jpg",
+"logo":"https://fastiptv.page.gd/icon/Bijoy_TV.jpg",
 "url":"https://tvsen6.aynaott.com/bijoytv/index.m3u8"
 },
 {
 "id":"btvnational",
 "name":"BTV National {FIFA}",
 "category":"BANGLA",
-"logo":"./icon/btv.png",
+"logo":"https://fastiptv.page.gd/icon/btv.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
 },
 {
 "id":"b4u",
 "name":"B4U Music",
 "category":"Music",
-"logo":"./icon/B4-U-Music.png",
+"logo":"https://fastiptv.page.gd/icon/B4-U-Music.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_music&e=.m3u8"
 },
 {
 "id":"channel1",
 "name":"Channel 1",
 "category":"BANGLA",
-"logo":"./icon/Channel1Bangladesh-1.png",
+"logo":"https://fastiptv.page.gd/icon/Channel1Bangladesh-1.png",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/index.m3u8"
 },
 {
 "id":"channel24",
 "name":"Channel 24",
 "category":"BANGLA",
-"logo":"./icon/channel24.jpg",
+"logo":"https://fastiptv.page.gd/icon/channel24.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
 },
 {
 "id":"channel9",
 "name":"Channel 9",
 "category":"BANGLA",
-"logo":"./icon/ch9-150x150.jpg",
+"logo":"https://fastiptv.page.gd/icon/ch9-150x150.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
 },
 {
 "id":"channelsbd",
 "name":"Channel S BD",
 "category":"BANGLA",
-"logo":"./icon/chsbd.jpg",
+"logo":"https://fastiptv.page.gd/icon/chsbd.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8"
 },
 {
 "id":"channeli",
 "name":"Channeli",
 "category":"BANGLA",
-"logo":"./icon/chi-150x150.jpg",
+"logo":"https://fastiptv.page.gd/icon/chi-150x150.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
 },
 {
 "id":"dbc",
 "name":"DBC News",
 "category":"BANGLA",
-"logo":"./icon/dbc-news.jpg",
+"logo":"https://fastiptv.page.gd/icon/dbc-news.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
 },
 {
 "id":"DD_Sports",
 "name":"DD Sports",
 "category":"Sports",
-"logo":"./icon/DD_Sports.png",
+"logo":"https://fastiptv.page.gd/icon/DD_Sports.png",
 "url":"https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
 },
 {
 "id":"deshtv",
 "name":"Desh TV",
 "category":"BANGLA",
-"logo":"./icon/DESH-TV1.png",
+"logo":"https://fastiptv.page.gd/icon/DESH-TV1.png",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8"
 },
 {
 "id":"deeptotv",
 "name":"Deepto TV",
 "category":"BANGLA",
-"logo":"./icon/deepto-tv.png",
+"logo":"https://fastiptv.page.gd/icon/deepto-tv.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
 },
 {
 "id":"Duronto_TV",
 "name":"Duronto TV",
-"category":"K"id"s",
-"logo":"./icon/Duronto_TV.jpg",
+"category":"Kids",
+"logo":"https://fastiptv.page.gd/icon/Duronto_TV.jpg",
 "url":"https://tvsen6.aynaott.com/durontotv-live/index.m3u8"
 },
 {
 "id":"Discovery HD",
 "name":"Discovery HD",
 "category":"Infotainment",
-"logo":"./icon/Discovery_HD.webp",
+"logo":"https://fastiptv.page.gd/icon/Discovery_HD.webp",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_hd&e=.m3u8"
 },
 {
 "id":"EkattorTV",
 "name":"Ekattor TV",
 "category":"BANGLA",
-"logo":"./icon/ekattor.png",
+"logo":"https://fastiptv.page.gd/icon/ekattor.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
 },
 {
 "id":"EkhonTV",
 "name":"Ekhon TV",
 "category":"BANGLA",
-"logo":"./icon/ekhontv.jpg",
+"logo":"https://fastiptv.page.gd/icon/ekhontv.jpg",
 "url":"https://tvsen6.aynaott.com/ekhontv/index.m3u8"
 },
 {
 "id":"ekusheytv",
 "name":"Ekushey TV",
 "category":"BANGLA",
-"logo":"./icon/ekusheytv.jpg",
+"logo":"https://fastiptv.page.gd/icon/ekusheytv.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8"
 },
 {
 "id":"entertv",
 "name":"Enter TV",
 "category":"BANGLA",
-"logo":"./icon/entertv.jpg",
+"logo":"https://fastiptv.page.gd/icon/entertv.jpg",
 "url":"https://live1.entertv.com.bd/entertv/index.fmp4.m3u8"
 },
 {
 "id":"FIFA",
 "name":"FIFA",
 "category":"Sports",
-"logo":"./icon/FIFA.png",
+"logo":"https://fastiptv.page.gd/icon/FIFA.png",
 "url":"https://a62dad94.w"url".com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
 },
 {
 "id":"gtv",
 "name":"GTV",
 "category":"BANGLA",
-"logo":"./icon/gtv.jpg",
+"logo":"https://fastiptv.page.gd/icon/gtv.jpg",
 "url":"https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"
 },
 {
 "id":"globaltv",
 "name":"Global TV",
 "category":"BANGLA",
-"logo":"./icon/globaltv.jpg",
+"logo":"https://fastiptv.page.gd/icon/globaltv.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8"
 },
 {
 "id":"G-Series",
 "name":"G-Series",
 "category":"BANGLA",
-"logo":"./icon/G-Series.png",
+"logo":"https://fastiptv.page.gd/icon/G-Series.png",
 "url":"https://vods2.aynaott.com/gseriesDrama/index.m3u8"
 },
 {
 "id":"GEO-Entertainment",
 "name":"GEO Entertainment",
 "category":"Indian",
-"logo":"./icon/Geo_Entertainment.png",
+"logo":"https://fastiptv.page.gd/icon/Geo_Entertainment.png",
 "url":"https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8"
 },
 {
 "id":"Green_Entertainment",
 "name":"Green Entertainment",
 "category":"Indian",
-"logo":"./icon/Green_Entertainment.jpg",
+"logo":"https://fastiptv.page.gd/icon/Green_Entertainment.jpg",
 "url":"https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
 },
 {
 "id":"Hum_TV",
 "name":"Hum TV",
 "category":"Indian",
-"logo":"./icon/Hum_TV.png",
+"logo":"https://fastiptv.page.gd/icon/Hum_TV.png",
 "url":"https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8"
 },
 {
 "id":"History-TV",
 "name":"History TV HD",
 "category":"Infotainment",
-"logo":"./icon/History-TV.png",
+"logo":"https://fastiptv.page.gd/icon/History-TV.png",
 "url":"https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8"
 },
 {
 "id":"independenttv",
 "name":"Independent TV",
 "category":"BANGLA",
-"logo":"./icon/independent_tv.png",
+"logo":"https://fastiptv.page.gd/icon/independent_tv.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
 },
 {
 "id":"BIG_CRICKET_League",
 "name":"BIG CRICKET League",
 "category":"Sports",
-"logo":"./icon/big.webp",
+"logo":"https://fastiptv.page.gd/icon/big.webp",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
 },
 {
 "id":"ilm",
 "name":"Ilm",
 "category":"Religious",
-"logo":"./icon/ilm.jpg",
+"logo":"https://fastiptv.page.gd/icon/ilm.jpg",
 "url":"https://tplay.live/originals/ilm-tv/index.m3u8"
 },
 {
 "id":"jagonews24",
 "name":"Jagonews24",
 "category":"BANGLA",
-"logo":"./icon/jagonews24.png",
+"logo":"https://fastiptv.page.gd/icon/jagonews24.png",
 "url":"https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
 },
 {
 "id":"jamunatv",
 "name":"Jamuna TV",
 "category":"BANGLA",
-"logo":"./icon/jamuna_tv_bd.png",
+"logo":"https://fastiptv.page.gd/icon/jamuna_tv_bd.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
 },
 {
 "id":"maasranga",
 "name":"Maasranga TV",
 "category":"BANGLA",
-"logo":"./icon/maasranga.jpg",
+"logo":"https://fastiptv.page.gd/icon/maasranga.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
 },
 {
 "id":"madani-bangla",
 "name":"Madani Bangla",
 "category":"Religious",
-"logo":"./icon/madani-bangla.jpg",
+"logo":"https://fastiptv.page.gd/icon/madani-bangla.jpg",
 "url":"https://tvsen7.aynaott.com/MadaniTV/index.m3u8"
 },
 {
 "id":"mohona",
 "name":"Mohona TV",
 "category":"BANGLA",
-"logo":"./icon/mohona.jpg",
+"logo":"https://fastiptv.page.gd/icon/mohona.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8"
 },
 {
 "id":"music-india",
 "name":"Music india",
 "category":"Music",
-"logo":"./icon/music-india.jpg",
+"logo":"https://fastiptv.page.gd/icon/music-india.jpg",
 "url":"https://cdn-2.pishow.tv/live/226/master.m3u8"
 },
 {
 "id":"ntv",
 "name":"NTV",
 "category":"BANGLA",
-"logo":"./icon/ntv-channel_0.jpg",
+"logo":"https://fastiptv.page.gd/icon/ntv-channel_0.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
 },
 {
 "id":"news_24",
 "name":"News 24",
 "category":"BANGLA",
-"logo":"./icon/news_24_bd.png",
+"logo":"https://fastiptv.page.gd/icon/news_24_bd.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
 },
 {
 "id":"NHK",
 "name":"NHK {FIFA}",
 "category":"Infotainment",
-"logo":"./icon/nhkworldjapan.png",
+"logo":"https://fastiptv.page.gd/icon/nhkworldjapan.png",
 "url":"https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
 },
 {
 "id":"peacetvbangla",
 "name":"Peace TV Bangla",
 "category":"Religious",
-"logo":"./icon/peace_tv_bangla_50.png",
+"logo":"https://fastiptv.page.gd/icon/peace_tv_bangla_50.png",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/index.m3u8"
 },
 {
 "id":"PTV",
 "name":"PTV Sports {FIFA}",
 "category":"Sports",
-"logo":"./icon/PTV_Sports.png",
+"logo":"https://fastiptv.page.gd/icon/PTV_Sports.png",
 "url":"https://tvsen5.aynaott.com/PtvSports/index.m3u8"
 },
 {
 "id":"rtv",
 "name":"RTV",
 "category":"BANGLA",
-"logo":"./icon/rtvbd.jpg",
+"logo":"https://fastiptv.page.gd/icon/rtvbd.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
 },
 {
 "id":"R_Plus_News",
 "name":"R Plus News",
 "category":"Indian",
-"logo":"./icon/r_plus_news.jpg",
+"logo":"https://fastiptv.page.gd/icon/r_plus_news.jpg",
 "url":"https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
 },
 {
 "id":"Republic_Bangla_TV",
 "name":"Republic Bangla TV",
 "category":"Indian",
-"logo":"./icon/Republic_Bangla_TV.png",
+"logo":"https://fastiptv.page.gd/icon/Republic_Bangla_TV.png",
 "url":"https://tvsen5.aynaott.com/R_Bangla/index.m3u8"
 },
 {
 "id":"sangeet-bangla",
 "name":"Sangeet Bangla",
 "category":"Music",
-"logo":"./icon/sangeet-bangla.jpg",
+"logo":"https://fastiptv.page.gd/icon/sangeet-bangla.jpg",
 "url":"https://cdn-4.pishow.tv/live/1143/master.m3u8"
 },
 {
 "id":"SAUDIQURANFHD",
 "name":"SAUDI QURAN HD",
 "category":"Religious",
-"logo":"./icon/SAUDIQURANFHD.jpg",
+"logo":"https://fastiptv.page.gd/icon/SAUDIQURANFHD.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
 },
 {
 "id":"SAUDISUNNAHFHD",
 "name":"SAUDI SUNNAH HD",
 "category":"Religious",
-"logo":"./icon/SAUDISUNNAHFHD.jpg",
+"logo":"https://fastiptv.page.gd/icon/SAUDISUNNAHFHD.jpg",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8"
 },
 {
 "id":"somoynews",
 "name":"Somoy News {FIFA}",
 "category":"BANGLA",
-"logo":"./icon/somoy_news.png",
+"logo":"https://fastiptv.page.gd/icon/somoy_news.png",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
 },
 {
 "id":"Sony_Aath",
 "name":"Sony Aath",
 "category":"Indian",
-"logo":"./icon/Sony_Aath.png",
+"logo":"https://fastiptv.page.gd/icon/Sony_Aath.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8"
 },
 {
 "id":"Sony_max",
 "name":"Sony max",
 "category":"Indian",
-"logo":"./icon/Sony_max.png",
+"logo":"https://fastiptv.page.gd/icon/Sony_max.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8"
 },
 {
 "id":"Sony_max_2",
 "name":"Sony Max 2",
 "category":"Indian",
-"logo":"./icon/Sony_max_2.webp",
+"logo":"https://fastiptv.page.gd/icon/Sony_max_2.webp",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8"
 },
 {
 "id":"SONY_SPORTS_1",
 "name":"SONY SPORTS 1",
 "category":"Sports",
-"logo":"./icon/sony_ten_sports_1_hd.jpeg",
+"logo":"https://fastiptv.page.gd/icon/sony_ten_sports_1_hd.jpeg",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8"
 },
 {
 "id":"SONY_SPORTS_2",
 "name":"SONY SPORTS 2",
 "category":"Sports",
-"logo":"./icon/sony_ten_sports_2_hd.jpeg",
+"logo":"https://fastiptv.page.gd/icon/sony_ten_sports_2_hd.jpeg",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8"
 },
 {
 "id":"SONY_SPORTS_5",
 "name":"SONY SPORTS 5",
 "category":"Sports",
-"logo":"./icon/sony_ten_sports_5_hd.jpeg",
+"logo":"https://fastiptv.page.gd/icon/sony_ten_sports_5_hd.jpeg",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8"
 },
 {
 "id":"sony_yay_Bangla",
 "name":"sony yay Bangla",
 "category":"Kid's",
-"logo":"./icon/sony_yay_Bangla.png",
+"logo":"https://fastiptv.page.gd/icon/sony_yay_Bangla.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8"
 },
 {
 "id":"Star_Jalsa",
 "name":"Star Jalsa",
 "category":"Indian",
-"logo":"./icon/Star_Jalsa.png",
+"logo":"https://fastiptv.page.gd/icon/Star_Jalsa.png",
 "url":"https://tvsen3.aynaott.com/n64PH4YL/index.m3u8"
 },
 {
 "id":"& Pictures HD",
 "name":"& Pictures HD",
 "category":"Indian",
-"logo":"./icon/&_Pictures_HD.png",
+"logo":"https://fastiptv.page.gd/icon/&_Pictures_HD.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8"
 },
 {
 "id":"starnews",
 "name":"Star News",
 "category":"BANGLA",
-"logo":"./icon/starnews.jpg",
+"logo":"https://fastiptv.page.gd/icon/starnews.jpg",
 "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
 },
 {
 "id":"STAR_SPORTS_1",
 "name":"STAR SPORTS 1",
 "category":"Sports",
-"logo":"./icon/STAR_SPORTS_1.jpeg",
+"logo":"https://fastiptv.page.gd/icon/STAR_SPORTS_1.jpeg",
 "url":"https://tvsen7.aynaott.com/sspts1/index.m3u8"
 },
 {
 "id":"ten_cricket",
 "name":"Ten cricket",
 "category":"Sports",
-"logo":"./icon/ten_cricket.png",
+"logo":"https://fastiptv.page.gd/icon/ten_cricket.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8"
 },
 {
 "id":"thikana",
 "name":"Thikana TV",
 "category":"BANGLA",
-"logo":"./icon/thikana.png",
+"logo":"https://fastiptv.page.gd/icon/thikana.png",
 "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8"
 },
 {
 "id":"TV9-Bangla",
 "name":"TV9 Bangla",
 "category":"Indian",
-"logo":"./icon/TV9-Bangla.png",
+"logo":"https://fastiptv.page.gd/icon/TV9-Bangla.png",
 "url":"https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8"
 },
 {
 "id":"T_sports_BDIX",
 "name":"T sports BDIX {FIFA}",
 "category":"Sports",
-"logo":"./icon/T_sports.jpg",
+"logo":"https://fastiptv.page.gd/icon/T_sports.jpg",
 "url":"https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=7588f94b8effbce574a589a8e109f875ade2b493-538a86f41ed6f05f7778809c2beb6426-1781095643-1781084843"
 },
 {
 "id":"T_sports",
 "name":"T sports {FIFA}",
 "category":"Sports",
-"logo":"./icon/T_sports.jpg",
+"logo":"https://fastiptv.page.gd/icon/T_sports.jpg",
 "url":"https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
 },
 {
 "id":"tyc-sports",
 "name":"TyC Sport 🇦🇷 {FIFA}",
 "category":"Sports",
-"logo":"./icon/tyc-sports.png",
+"logo":"https://fastiptv.page.gd/icon/tyc-sports.png",
 "url":"https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
 },
 {
 "id":"Willow_HD",
 "name":"Willow HD",
 "category":"Sports",
-"logo":"./icon/Willow_HD.jpg",
+"logo":"https://fastiptv.page.gd/icon/Willow_HD.jpg",
 "url":"https://tvsen5.aynaott.com/willowhd/index.m3u8"
 },
 {
 "id":"9x-jalwa",
 "name":"9X Jalwa",
 "category":"Music",
-"logo":"./icon/9x-jalwa.jpg",
+"logo":"https://fastiptv.page.gd/icon/9x-jalwa.jpg",
 "url":"https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
 },
 {
 "id":"9xm",
 "name":"9xm",
 "category":"Music",
-"logo":"./icon/9xm.jpg",
+"logo":"https://fastiptv.page.gd/icon/9xm.jpg",
 "url":"https://wiselp.wiseplayout.com/9XM/master.m3u8"
 },
 {
 "id":"XTREM-SPORTS",
 "name":"XTREM SPORTS",
 "category":"Sports",
-"logo":"./icon/XTREM-SPORTS.png",
+"logo":"https://fastiptv.page.gd/icon/XTREM-SPORTS.png",
 "url":"https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
 },
 
@@ -599,29 +600,32 @@
 "id":"yrf-music",
 "name":"YRF Music",
 "category":"Music",
-"logo":"./icon/yrf-music.jpg",
+"logo":"https://fastiptv.page.gd/icon/yrf-music.jpg",
 "url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
 },
 {
 "id":"Zeebangla",
 "name":"Zee bangla",
 "category":"Indian",
-"logo":"./icon/zeebangla.png",
+"logo":"https://fastiptv.page.gd/icon/zeebangla.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8"
 },
 {
 "id":"Zee_cinema",
 "name":"Zee cinema",
 "category":"Indian",
-"logo":"./icon/Zee_cinema.png",
+"logo":"https://fastiptv.page.gd/icon/Zee_cinema.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8"
 },
 {
 "id":"zoom",
 "name":"Zoom",
 "category":"Music",
-"logo":"./icon/zoom.jpg",
+"logo":"https://fastiptv.page.gd/icon/zoom.jpg",
 "url":"https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
 },
+
+     
+     
 ]
 }
