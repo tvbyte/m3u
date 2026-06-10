@@ -133,4 +133,4 @@ var MSDATA=JSON.stringify([
 "logo":"https://fastiptv.page.gd/icon/B4-U-Music.png",
 "url":"https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_music&e=.m3u8"
 },
-
+]);
