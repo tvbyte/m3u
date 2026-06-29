@@ -21,6 +21,9 @@ http://139.23.241.38:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Hls" group-title="11plus" tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Ptv
 http://139.23.241.38:8088/125/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Hls" group-title="Boss" tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Hls" group-title="1nya" tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Bein Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="Hls" group-title="1nya" tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-fifa-world-cup-transparent-png-701751712076865bw3umpw9lk.png",Win Sports
